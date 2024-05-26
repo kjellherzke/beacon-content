@@ -1,0 +1,12 @@
+{
+  "title": "All learning paths",
+  "markdownUrl": "/index.md",
+  "nodes": [
+    {
+      "name": "Mathematics",
+      "x": 0,
+      "y": 0,
+      "nodeUrl": "/mathematics/index.json"
+    }
+  ]
+}

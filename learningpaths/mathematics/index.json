@@ -1,5 +1,6 @@
 {
   "title": "Mathematics & Logics",
+  "markdownUrl": "/mathematics/index.md",
   "nodes": [
     {
       "name": "Starting node",
@@ -8,7 +9,7 @@
     },
     {
       "name": "Second Node",
-      "x": 0,
+      "x": 300,
       "y": 0
     }
   ]
