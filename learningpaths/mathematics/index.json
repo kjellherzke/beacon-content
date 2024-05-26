@@ -3,12 +3,26 @@
   "markdownUrl": "/mathematics/index.md",
   "nodes": [
     {
-      "name": "Starting node",
+      "name": "Calculus",
+      "nodeUrl": "/mathematics/calculus/index.json",
       "x": 0,
-      "y": 0
+      "y": 0,
+      "nodes": [
+        {
+          "name": "Problem Solving",
+          "x": 0,
+          "y": 75
+        },
+        {
+          "name": "Introduction to Physics",
+          "nodeUrl": "/sciences/physical/physics/index.json",
+          "x": 200,
+          "y": 75
+        }
+      ]
     },
     {
-      "name": "Second Node",
+      "name": "Linear Algebra",
       "x": 300,
       "y": 0
     }

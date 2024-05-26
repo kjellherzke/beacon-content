@@ -1,0 +1,11 @@
+{
+  "title": "Mathematics / Calculus",
+  "markdownUrl": "/mathematics/calculus/index.md",
+  "nodes": [
+    {
+      "name": "Starting node",
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

@@ -2,13 +2,12 @@
 
 This repository is the library of all community-related content for _beacon_.
 
-Hence there are certain _"guidelines"_ as well as tips for constructive and welcome contributions.
-
-Get started:
+Hence there are certain _"guidelines"_ as well as tips for constructive and welcome contributions:
 
 - Follow the basic, systematic folder and file structure
-
 - For **Learning Paths** look [here](#learning-paths)
+
+We would be very pleased, if you may contribute to the site's open source content.
 
 ## Learning Paths
 

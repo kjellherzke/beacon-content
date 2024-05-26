@@ -1,0 +1,11 @@
+{
+  "title": "Physics",
+  "markdownUrl": "/sciences/physical/physics/index.md",
+  "nodes": [
+    {
+      "name": "Starting node for Physics...",
+      "x": 0,
+      "y": 0
+    }
+  ]
+}
