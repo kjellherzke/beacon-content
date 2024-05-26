@@ -6,7 +6,7 @@ Hence there are certain _"guidelines"_ as well as tips for constructive and welc
 Get started:
 
 - Follow the basic, systematic folder and file structure
-- For **Learning Paths** look [here](https://github.com/kjellherzke/beacon#learning-paths)
+- For **Learning Paths** look [here](https://github.com/kjellherzke/beacon-content#learning-paths)
 
 ## Learning Paths
 
@@ -157,5 +157,5 @@ Now you can link this (child) node with the `nodeUrl` property in your `/example
 You see where this is going? Good... Well, note that the `markdownUrl` and `nodeUrl` are competitive properties, and their can only be one of them, because:
 If you click on that single node, it will **either** open the new sub node if `nodeUrl` is supplied, or try opening the markdown file with the `markdownUrl` field.
 
-> ![NOTE]
+> [!NOTE]
 > The `nodeUrl` property has priority over the `markdownUrl` property.
