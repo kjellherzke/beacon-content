@@ -1,12 +1,14 @@
 # Community Content for [**beacon**](https://github.com/kjellherzke/beacon)
 
 This repository is the library of all community-related content for _beacon_.
+
 Hence there are certain _"guidelines"_ as well as tips for constructive and welcome contributions.
 
 Get started:
 
 - Follow the basic, systematic folder and file structure
-- For **Learning Paths** look [here](https://github.com/kjellherzke/beacon-content#learning-paths)
+
+- For **Learning Paths** look [here](#learning-paths)
 
 ## Learning Paths
 
@@ -60,6 +62,7 @@ You can see that this concept of nodes is expandable, allowing recursions:
 ```
 
 Now a primary node has a direct child node, it's as simple as that.
+
 We could also have child nodes for this child node specifically, by again passing a `nodes` property, and so on. Although this design behaviour is not really recommended.
 
 You may be ready to now start relating markdown files, for instance `/example/index.md`, by doing:
@@ -155,7 +158,10 @@ Now you can link this (child) node with the `nodeUrl` property in your `/example
 ```
 
 You see where this is going? Good... Well, note that the `markdownUrl` and `nodeUrl` are competitive properties, and their can only be one of them, because:
+
 If you click on that single node, it will **either** open the new sub node if `nodeUrl` is supplied, or try opening the markdown file with the `markdownUrl` field.
 
 > [!NOTE]
 > The `nodeUrl` property has priority over the `markdownUrl` property.
+
+## More coming soon...
