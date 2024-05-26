@@ -1,0 +1,15 @@
+{
+  "title": "Mathematics & Logics",
+  "nodes": [
+    {
+      "name": "Starting node",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "name": "Second Node",
+      "x": 0,
+      "y": 0
+    }
+  ]
+}
