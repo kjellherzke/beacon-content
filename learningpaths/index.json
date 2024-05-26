@@ -7,6 +7,16 @@
       "x": 0,
       "y": 0,
       "nodeUrl": "/mathematics/index.json"
+    },
+    {
+      "name": "Natural and physical sciences",
+      "x": 200,
+      "y": 0
+    },
+    {
+      "name": "Technology and applied sciences",
+      "x": 550,
+      "y": 0
     }
   ]
 }
