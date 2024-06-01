@@ -163,4 +163,7 @@ If you click on that single node, it will **either** open the new sub node if `n
 > [!NOTE]
 > The `nodeUrl` property has priority over the `markdownUrl` property.
 
+Now the heading can have a `x` and `y` property too, which will then vary the position of the visual graph's title.
+By default the values are both `0`.
+
 ## More coming soon...

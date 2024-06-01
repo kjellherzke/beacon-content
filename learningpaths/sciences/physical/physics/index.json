@@ -4,7 +4,7 @@
   "nodes": [
     {
       "name": "Starting node for Physics...",
-      "x": 0,
+      "x": 200,
       "y": 0
     }
   ]

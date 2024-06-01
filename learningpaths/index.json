@@ -4,18 +4,18 @@
   "nodes": [
     {
       "name": "Mathematics",
-      "x": 0,
+      "x": 250,
       "y": 0,
       "nodeUrl": "/mathematics/index.json"
     },
     {
       "name": "Natural and physical sciences",
-      "x": 200,
+      "x": 500,
       "y": 0
     },
     {
       "name": "Technology and applied sciences",
-      "x": 550,
+      "x": 900,
       "y": 0
     }
   ]

@@ -1,29 +1,31 @@
 {
   "title": "Mathematics & Logics",
+  "x": 0,
+  "y": 0,
   "markdownUrl": "/mathematics/index.md",
   "nodes": [
     {
       "name": "Calculus",
       "nodeUrl": "/mathematics/calculus/index.json",
-      "x": 0,
+      "x": 250,
       "y": 0,
       "nodes": [
         {
           "name": "Problem Solving",
-          "x": 0,
+          "x": 150,
           "y": 75
         },
         {
           "name": "Introduction to Physics",
           "nodeUrl": "/sciences/physical/physics/index.json",
-          "x": 200,
+          "x": 350,
           "y": 75
         }
       ]
     },
     {
       "name": "Linear Algebra",
-      "x": 300,
+      "x": 550,
       "y": 0
     }
   ]
